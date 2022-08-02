@@ -8,7 +8,7 @@
 <br> - Vitor E. G. Barelli - 220072
 
 **Respectivos lideres de cada bloco**:
-<br> Bloco 1 - Vitor E. G. Barelli
-<br> Bloco 2 -
-<br> Bloco 3 -
-<br> Bloco 4 -
+<br> - Bloco 1 - Vitor E. G. Barelli
+<br> - Bloco 2 -
+<br> - Bloco 3 -
+<br> - Bloco 4 -
