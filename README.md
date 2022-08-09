@@ -12,3 +12,7 @@
 <br> - Bloco 2 - Artur Hosoi Kimura
 <br> - Bloco 3 - Débora van Putten Chaves
 <br> - Bloco 4 - Pedro Henrique Machado Zanineli
+
+**Links relevantes até o momento**
+<br> Base de dados: <https://gtexportal.org/home/biobank#search>
+<br> Base de dados - Expressão gênica em diferentes tecidos (gráfico): <https://gtexportal.org/home/tissue/Skin_Sun_Exposed_Lower_leg?tissueSelect=Skin_Sun_Exposed_Lower_leg>
