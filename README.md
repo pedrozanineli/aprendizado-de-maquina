@@ -13,9 +13,6 @@
 <br> - Bloco 3 - Débora van Putten Chaves
 <br> - Bloco 4 - Pedro Henrique Machado Zanineli
 
-**Links relevantes até o momento**
-<br> Base de dados: <https://gtexportal.org/home/biobank#search>
-<br> Base de dados - Expressão gênica em diferentes tecidos (gráfico): <https://gtexportal.org/home/tissue/Skin_Sun_Exposed_Lower_leg?tissueSelect=Skin_Sun_Exposed_Lower_leg>
 <br>
 <br> **Como esse projeto funciona?"**
 <br> O projeto se baseia em ensinar uma máquina (código) a identificar padrões em um conjunto de dados, tentar organizá-los e, se possível, retornar uma resposta. Os dados escolhidos estão relacionados à expressão gênica na pele (não exposta ao sol) e retirados do BioBanco de dados "Portal GTEX" e devem retornar a idade e o sexo da amostra.
@@ -28,3 +25,8 @@
 <br> - Sexo. (Masculino e Feminino)
 <br> Ele deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para encontrar um padrão entre os 3 tipos de dados, após o padrão ser encontrado, a máquina (código) passará por um teste para definir a eficiência desse padrão.
 <br> Por fim, o padrão eficiente deve conseguir receber os TPMs da amostra e retornar a faixa etária e o sexo da amostra de tecido da derme humana.
+<br>
+<br>
+**Links relevantes até o momento**
+<br> Base de dados: <https://gtexportal.org/home/biobank#search>
+<br> Base de dados - Expressão gênica em diferentes tecidos (gráfico): <https://gtexportal.org/home/tissue/Skin_Sun_Exposed_Lower_leg?tissueSelect=Skin_Sun_Exposed_Lower_leg>
