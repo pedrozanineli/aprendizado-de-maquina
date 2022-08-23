@@ -17,7 +17,14 @@
 <br> Base de dados: <https://gtexportal.org/home/biobank#search>
 <br> Base de dados - Expressão gênica em diferentes tecidos (gráfico): <https://gtexportal.org/home/tissue/Skin_Sun_Exposed_Lower_leg?tissueSelect=Skin_Sun_Exposed_Lower_leg>
 <br>
-**Bloco 1**
-<br> Resumo do projeto;
-<br> O projeto se baseia em ensinar uma máquina (código) a identificar padrões em um conjunto de dados, tentar organizá-los e, se possível, retornar uma resposta. Os dados escolhidos estão relacionados à expressão gênica na pele.
-O objetivo do projeto é produzir um código que ajude na identificação de amostras humanas em desastres e estudos forenses, o código está sendo treinado com os seguintes dados: TPM (Transcrito por milhão) dos genes mais expressivos na pele, faixa etária e sexo, e ele deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para entender um padrão do TPM com a faixa etária e o sexo da amostra para que ele receba posteriormente dados de TPM de uma amostra e retorne a faixa etária e sexo da pessoa dona daquela amostra, assim agilizando diversos processos na área de desastres e na área forense.
+<br> **Como esse projeto funciona?"**
+<br> O projeto se baseia em ensinar uma máquina (código) a identificar padrões em um conjunto de dados, tentar organizá-los e, se possível, retornar uma resposta. Os dados escolhidos estão relacionados à expressão gênica na pele (não exposta ao sol) e retirados do BioBanco de dados "Portal GTEX" e devem retornar a idade e o sexo da amostra.
+<br>
+<br> **Objetivos do projeto**
+<br> O objetivo do projeto é produzir uma máquina (código) que ajude na identificação de amostras de tecido humano em desastres e estudos forenses. 
+<br> O código está sendo treinado com os seguintes dados:
+<br> - TPM (Transcrito por milhão) dos genes mais expressivos na pele. (genes de interesse: 20)
+<br> - Faixa etária. (20 aos 79 anos)
+<br> - Sexo. (Masculino e Feminino)
+<br> Ele deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para encontrar um padrão entre os 3 tipos de dados, após o padrão ser encontrado, a máquina (código) passará por um teste para definir a eficiência desse padrão.
+<br> Por fim, o padrão eficiente deve conseguir receber os TPMs da amostra e retornar a faixa etária e o sexo da amostra de tecido da derme humana.
