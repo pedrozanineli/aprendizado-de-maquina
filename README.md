@@ -27,7 +27,6 @@
 <br> Ele deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para encontrar um padrão entre os 3 tipos de dados, após o padrão ser encontrado, a máquina (código) passará por um teste para definir a eficiência desse padrão.
 <br> Por fim, o padrão eficiente deve conseguir receber os TPMs da amostra e retornar a faixa etária e o sexo da amostra de tecido da derme humana.
 <br>
-<br>
 
 **Links relevantes até o momento**
 <br> Base de dados: <https://gtexportal.org/home/biobank#search>
