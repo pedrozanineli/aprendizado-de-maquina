@@ -1,5 +1,5 @@
 ## Aprendizado de Máquina
-### Tema: Análise da expressão genica da derme, com enfase em estudos florences
+### Tema: Análise da expressão gênica da derme, com ênfase em estudos forenses
 
 **Membros do grupo & RM's**;
 <br> - Artur Hosoi Kimura - 220048
@@ -12,22 +12,19 @@
 <br> - Bloco 2 - Artur Hosoi Kimura
 <br> - Bloco 3 - Débora van Putten Chaves
 <br> - Bloco 4 - Pedro Henrique Machado Zanineli
-<br>
 
-**Como esse projeto funciona?**
-<br> O projeto se baseia em ensinar uma máquina (código) a identificar padrões em um conjunto de dados, tentar organizá-los e, se possível, retornar uma resposta. Os dados escolhidos estão relacionados à expressão gênica na pele (não exposta ao sol) e retirados do BioBanco de dados "Portal GTEX" e devem retornar a idade e o sexo da amostra.
-<br>
+**Como nosso projeto funciona?**
+<br> O projeto se baseia em ensinar uma máquina a identificar padrões a partir de um conjunto de dados organizados, objetivando obter como retorno uma resposta que preveja algum comportamento de amostras definidas. Os dados escolhidos estão relacionados à expressão gênica na pele não exposta ao sol. Tais dados foram retirados do BioBanco de dados "Portal GTEX" e, com eles, esperamos ser capazes de prever faixa etária na qual se encaixa e sexo de uma pessoa fornecedora de amostra a partir da análise de sua expressão gênica.
 
-**Objetivos do projeto**;
-<br> O objetivo do projeto é produzir uma máquina (código) que ajude na identificação de amostras de tecido humano em desastres e estudos forenses. 
-<br> O código está sendo treinado com os seguintes dados:
-<br> - TPM (Transcrito por milhão) dos genes mais expressivos na pele. (genes de interesse: 20)
-<br> - Faixa etária. (20 aos 79 anos)
-<br> - Sexo. (Masculino e Feminino)
-<br> Ele deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para encontrar um padrão entre os 3 tipos de dados, após o padrão ser encontrado, a máquina (código) passará por um teste para definir a eficiência desse padrão.
-<br> Por fim, o padrão eficiente deve conseguir receber os TPMs da amostra e retornar a faixa etária e o sexo da amostra de tecido da derme humana.
-<br>
+**Objetivos do projeto**
+<br> O objetivo do projeto é construir uma ferramenta que consiste em uma máquina que aprendeu a identificar informações como faixa etária e sexo de amostras de diferentes doadores. Essa ideia pode ser muito útil principalmente em situações de desastres naturais ou não que afetem grupo de pessoas, asssim como estudos forenses em que há algum entrave em relação ao acesso de dados pessoais dos indivíduos;
+<br> A máquina está sendo treinada com os seguintes dados:
+<br> - TPM (transcrito por milhão) dos genes mais expressivos na pele (sendo 20 os nossos genes de interesse);
+<br> - Faixa etária (subdivisões em faixas que exploram a idade de 20 aos 79 anos);
+<br> - Sexo (entre masculino e feminino);
+<br> Ela deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para encontrar um padrão entre os 3 tipos de dados, após o padrão ser encontrado, a máquina passará por um teste para definir a eficiência desse padrão.
+<br> Por fim, o padrão eficiente deve conseguir receber os TPMs da amostra e retornar a faixa etária e o sexo referentes à amostra de tecido da derme humana.
 
-**Links relevantes até o momento**;
+**Links relevantes até o momento**
 <br> Base de dados: <https://gtexportal.org/home/biobank#search>
 <br> Base de dados - Expressão gênica em diferentes tecidos (gráfico): <https://gtexportal.org/home/tissue/Skin_Sun_Exposed_Lower_leg?tissueSelect=Skin_Sun_Exposed_Lower_leg>
