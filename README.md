@@ -14,7 +14,7 @@
 <br> - Bloco 4 - Pedro Henrique Machado Zanineli
 <br>
 
-**Como esse projeto funciona?"**
+**Como esse projeto funciona?**
 <br> O projeto se baseia em ensinar uma máquina (código) a identificar padrões em um conjunto de dados, tentar organizá-los e, se possível, retornar uma resposta. Os dados escolhidos estão relacionados à expressão gênica na pele (não exposta ao sol) e retirados do BioBanco de dados "Portal GTEX" e devem retornar a idade e o sexo da amostra.
 <br>
 
