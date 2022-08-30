@@ -25,6 +25,14 @@
 <br> Ela deve relacionar esses 3 dados de entrada de treino, fazendo diversas comparações entre as amostras, para encontrar um padrão entre os 3 tipos de dados, após o padrão ser encontrado, a máquina passará por um teste para definir a eficiência desse padrão.
 <br> Por fim, o padrão eficiente deve conseguir receber os TPMs da amostra e retornar a faixa etária e o sexo referentes à amostra de tecido da derme humana.
 
+**Descrição dos arquivos do GitHub**
+1. 'raw_data.zip'
+<br> Descrição: contém todos os nossos dados já tratados.
+2. 'data.csv'
+<br> Descrição: pegamos todos os nossos genes e, a partir deles, somamos as suas expressões. Depois disso, analisamos quais deles eram mais expressivos (quais tinham as maiores somas) e selecionamos os 20 (vinte) que aparesentaram maiores resultados.
+3. 'data_artigo.csv'
+<br> Descrição: os genes aqui escolhidos são os que foram obtidos da literatura científica. Os links para os artigos que suportam essas escolhas estão dispostos no arquivo 'material-de-estudo.md'.
+
 **Links relevantes até o momento**
 <br> Base de dados: <https://gtexportal.org/home/biobank#search>
 <br> Base de dados - Expressão gênica em diferentes tecidos (gráfico): <https://gtexportal.org/home/tissue/Skin_Sun_Exposed_Lower_leg?tissueSelect=Skin_Sun_Exposed_Lower_leg>
