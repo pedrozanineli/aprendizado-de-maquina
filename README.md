@@ -32,6 +32,8 @@
 <br> Descrição: pegamos todos os nossos genes e, a partir deles, somamos as suas expressões. Depois disso, analisamos quais deles eram mais expressivos (quais tinham as maiores somas) e selecionamos os 20 (vinte) que aparesentaram maiores resultados.
 3. 'data_artigo.csv'
 <br> Descrição: os genes aqui escolhidos são os que foram obtidos da literatura científica. Os links para os artigos que suportam essas escolhas estão dispostos no arquivo 'material-de-estudo.md'.
+4. 'material-de-estudo.md'
+<br> Descrição: reúne em um arquivo só os genes que encontramos destacados na literatura e os links para os artigos que continham tais informações.
 
 **Links relevantes até o momento**
 <br> Base de dados: <https://gtexportal.org/home/biobank#search>
