@@ -6,8 +6,8 @@
 **Membros do grupo, RM's e respectivos lideres de cada bloco**;
 <br> - Artur Hosoi Kimura - 220048 - Bloco 2
 <br> - Débora van Putten Chaves - 220037 - Bloco 3
-<br> - Pedro Henrique Machado Zanineli - 220068 - Bloco 1
-<br> - Vitor Eduardo Girotto Barelli - 220072 - Bloco 4
+<br> - Pedro Henrique Machado Zanineli - 220068 - Bloco  4
+<br> - Vitor Eduardo Girotto Barelli - 220072 - Bloco 1
 
 **Como nosso projeto funciona?**
 <br> O projeto se baseia em ensinar uma máquina a identificar padrões a partir de um conjunto de dados organizados, objetivando obter como retorno uma resposta que preveja algum comportamento de amostras definidas. Os dados escolhidos estão relacionados à expressão gênica na pele não exposta ao sol. Tais dados foram retirados do BioBanco de dados "Portal GTEX" e, com eles, esperamos ser capazes de prever faixa etária na qual se encaixa e sexo de uma pessoa fornecedora de amostra a partir da análise de sua expressão gênica.
