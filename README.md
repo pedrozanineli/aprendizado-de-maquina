@@ -3,17 +3,11 @@
 ## Aprendizado de Máquina
 ### Tema: Análise da expressão gênica da derme, com ênfase em estudos forenses
 
-**Membros do grupo & RM's**;
-<br> - Artur Hosoi Kimura - 220048
-<br> - Débora van Putten Chaves - 220037
-<br> - Pedro Henrique Machado Zanineli - 220068
-<br> - Vitor Eduardo Girotto Barelli - 220072
-
-**Respectivos lideres de cada bloco**;
-<br> - Bloco 1 - Vitor Eduardo Girotto Barelli
-<br> - Bloco 2 - Artur Hosoi Kimura
-<br> - Bloco 3 - Débora van Putten Chaves
-<br> - Bloco 4 - Pedro Henrique Machado Zanineli
+**Membros do grupo, RM's e respectivos lideres de cada bloco**;
+<br> - Artur Hosoi Kimura - 220048 - Bloco 2
+<br> - Débora van Putten Chaves - 220037 - Bloco 3
+<br> - Pedro Henrique Machado Zanineli - 220068 - Bloco 1
+<br> - Vitor Eduardo Girotto Barelli - 220072 - Bloco 4
 
 **Como nosso projeto funciona?**
 <br> O projeto se baseia em ensinar uma máquina a identificar padrões a partir de um conjunto de dados organizados, objetivando obter como retorno uma resposta que preveja algum comportamento de amostras definidas. Os dados escolhidos estão relacionados à expressão gênica na pele não exposta ao sol. Tais dados foram retirados do BioBanco de dados "Portal GTEX" e, com eles, esperamos ser capazes de prever faixa etária na qual se encaixa e sexo de uma pessoa fornecedora de amostra a partir da análise de sua expressão gênica.
