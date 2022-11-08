@@ -22,27 +22,27 @@ O projeto será desenvolvido considerando:
 **Sumário geral**
 
 ***Geral***
-- Diário de bordo: são as anotações do líder (discussões, ações e a realização de tarefas)
+- Diário de bordo.ipynb: são as anotações do líder do bloco (discussões, ações e a realização de tarefas)
 - 'raw_data.zip': contém todos os nossos dados já tratados.
 
 ***Bloco 1***
-- B1 - Coleta dos dados: nesse caderno foram feitas coletas e tratamento de dois tipos de dados, produzindo um dataframe.
-- B1 - Preparação e Análise dos dados: nesse caderno houve uma discussão sobre o projeto em geral e a definição, classificação e preparação dos dados e features para serem analisadas.
+- B1 - Coleta dos dados.ipynb: nesse caderno foram feitas coletas e tratamento de dois tipos de dados, produzindo um dataframe.
+- B1 - Preparação e Análise dos dados.ipynb: nesse caderno houve uma discussão sobre o projeto em geral e a definição, classificação e preparação dos dados e features para serem analisadas.
 - B1 - Dados.csv: Nesse arquivo Excel temos os dados retirados do GTX que serão utilizados para produzir os data.set
 - B1 - material-de-estudo.md: reúne em um arquivo só os genes que encontramos destacados na literatura e os links para os artigos que continham tais informações.
 
 ***Bloco 2***
-- B2 - Aplicação dos métodos com conversão randômica de idade: Baseline, K-NN, Regressão Linear, Árvore de Decisão e Floresta Aleatória, por idades aleatórias.
-- B2 - Aplicação dos métodos: Baseline, K-NN, Regressão Linear, Árvore de Decisão e Floresta Aleatória, por faixa de idade.
+- B2 - Aplicação dos métodos com conversão randômica de idade.ipynb: Baseline, K-NN, Regressão Linear, Árvore de Decisão e Floresta Aleatória, por idades aleatórias.
+- B2 - Aplicação dos métodos.ipynb: Baseline, K-NN, Regressão Linear, Árvore de Decisão e Floresta Aleatória, por faixa de idade.
 
 OBS: Nesse bloco houve a separação do dataframe em 2;
 - 'data.csv': pegamos todos os nossos genes e, a partir deles, somamos as suas expressões. Depois disso, analisamos quais deles eram mais expressivos (quais tinham as maiores somas) e selecionamos os 20 (vinte) que apresentaram maiores resultados.
 - 'data_artigo.csv': os genes aqui escolhidos são os que foram obtidos da literatura científica. Os links para os artigos que suportam essas escolhas estão dispostos no arquivo 'material-de-estudo.md'.
 
 ***Bloco 3***
-- B3 - Agrupamento (clustering)
-- B3 - Detecção de valores anômalos
-- B3 - PCA
+- B3 - Agrupamento (clustering).ipynb
+- B3 - Detecção de valores anômalos.ipynb
+- B3 - PCA.ipynb
 
 ***Bloco 4***
-- B4 - Validação cruzada
+- B4 - Validação cruzada.ipynb
