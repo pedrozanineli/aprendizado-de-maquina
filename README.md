@@ -19,7 +19,7 @@ O projeto será desenvolvido levando em consideração:
 - Faixa etária como target, com subdivisões em faixas que exploram idades entre 20 aos 79 anos;
 - Sexo como target, podendo ser classificado como masculino ou feminino.
 
-**Sumário geral**
+## Sumário do repositório
 
 ***Bloco 1***
 - B1 - Coletando os dados:
