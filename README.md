@@ -19,11 +19,30 @@ O projeto será desenvolvido levando em consideração:
 - Faixa etária como target, com subdivisões em faixas que exploram idades entre 20 aos 79 anos;
 - Sexo como target, podendo ser classificado como masculino ou feminino.
 
-**Divisão de Arquivos**
+**Sumário geral**
 
-Os arquivos estão organizados da seguinte maneira
+***Bloco 1***
+- B1 - Coletando os dados:
+- B1 - Dados.csv:
+- B1 - Diário de bordo:
+- B1 - Preparando e analisando os dados:
+- B1 - material-de-estudo.md: reúne em um arquivo só os genes que encontramos destacados na literatura e os links para os artigos que continham tais informações.
 
+***Bloco 2***
+- B2 - Aplicação dos métodos com conversão randômica de idade:
+- B2 - Aplicação dos métodos:
+- B2 - Diário de bordo:
+
+***Bloco 3***
+- B3 - Agrupamento (clustering):
+- B3 - Detecção de valores anômalos:
+- B3 - Diário de bordo:
+- B3 - PCA:
+
+***Bloco 4***
+- B4 - Validação cruzada:
+
+***Geral***
 - 'raw_data.zip': contém todos os nossos dados já tratados.
 - 'data.csv': pegamos todos os nossos genes e, a partir deles, somamos as suas expressões. Depois disso, analisamos quais deles eram mais expressivos (quais tinham as maiores somas) e selecionamos os 20 (vinte) que aparesentaram maiores resultados.
 - 'data_artigo.csv': os genes aqui escolhidos são os que foram obtidos da literatura científica. Os links para os artigos que suportam essas escolhas estão dispostos no arquivo 'material-de-estudo.md'.
-- 'material-de-estudo.md': reúne em um arquivo só os genes que encontramos destacados na literatura e os links para os artigos que continham tais informações.
